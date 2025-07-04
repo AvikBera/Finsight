@@ -1,0 +1,13 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Uploaded files
+
+# Dependency files
+package-lock.json
+
+# System files
+.DS_Store
